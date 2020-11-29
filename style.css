@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif
+}
+p {
+    color: #FF00FF;
+}
+h1, h2 ,h3, h4 {
+    color:antiquewhite;
+    background-color: pink;
+}
+
+h1 {
+    background-color: blue;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: red;
+}
