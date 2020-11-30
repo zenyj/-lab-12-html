@@ -4,16 +4,24 @@ body{
 p {
     color: #FF00FF;
 }
-h1, h2 ,h3, h4 {
+h2 ,h3, h4 {
     color:antiquewhite;
     background-color: pink;
 }
 
 h1 {
-    background-color: blue;
+    background-color: red;
     margin: 20px;
     padding: 40px;
-    border-style: dashed;
-    border-width: 5px;
-    border-color: red;
+}
+
+#intro {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    
+}
+
+.spotlight{
+    background-color: yellow;
 }
